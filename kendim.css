@@ -1,0 +1,88 @@
+/* css documant */
+body h1 {
+    /* border: solid red; */
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    /* border: solid red; */
+    background-color: blanchedalmond;
+}
+
+.sayfa {
+    /* border: solid red; */
+    width: 960px;
+    margin: 5px auto;
+}
+
+#logo {
+    /* border: solid red; */
+    float: left;
+    color: rgb(36, 34, 139);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-right: 40px;
+    margin-left: 10px;
+    background-color: rgb(255, 80, 153);
+
+}
+
+#menu {
+    /* border: solid red; */
+    float: left;
+    list-style: none;
+}
+
+#menu li {
+    /* border: solid red; */
+    float: left;
+}
+
+#menu li a {
+    /* border: solid red; */
+    text-decoration: none;
+    color: blueviolet;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans"
+
+}
+
+menu li a:hover {
+    /* border: solid red; */
+    background-color: blue;
+    border-radius: 10px;
+
+}
+#icerik{
+    /* border: solid red; */
+    background-color:antiquewhite;
+}
+#galeri{
+    /* border: solid red; */
+    height: 300px;
+    width: 940px;
+    margin: 10px 10px;
+}
+/* .yazı{border: soliD red; */
+    width: :300px;
+    float: left;
+    background-color:#5E95E0;
+    margin: left 15px;
+    margin: bottom 30px;
+}
+.yazı h1{
+    /* border: solid red; */
+    color:antiquewhite
+    margin: left 10px;
+}
+yazı. p{
+    text-indent: 20px;
+    text-align:justify;
+    margin:10px;
+}
+.temizle{
+    clear:both;
+}
